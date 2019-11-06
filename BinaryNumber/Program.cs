@@ -16,6 +16,7 @@ namespace BinaryNumber
 
         static string ConvertToBinary(int n)
         {
+
             string result = "";
             while (n > 0)
             {
