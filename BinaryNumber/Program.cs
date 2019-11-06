@@ -18,7 +18,6 @@ namespace BinaryNumber
         {
             string result = "";
             while (n > 0)
-
             {
                 int reminder = n % 2;
                 result = reminder + result;
